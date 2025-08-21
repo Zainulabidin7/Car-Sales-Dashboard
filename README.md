@@ -44,6 +44,4 @@ The dashboard provides insights into:
 - Improved visibility of sales performance across time, body style, color, and region  
 - Strengthened skills in Power BI, Data Modeling, and DAX  
 
----
 
-## 📂 Repository Structure
